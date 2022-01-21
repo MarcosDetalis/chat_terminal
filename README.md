@@ -33,7 +33,7 @@ ClI inspirada por las viejas películas de informática
  📖Podemos abrir mas terminales para simular el chat
  
 ## Ejecutando las pruebas ⚙️
- ![alt text](https://r )
+ ![alt text](https://raw.githubusercontent.com/MarcosDetalis/chat_terminal/main/demoCLI.gif)
 
 
 ## Tecnologías utilizadas 🛠️
