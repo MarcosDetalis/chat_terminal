@@ -14,6 +14,12 @@ ClI inspirada por las viejas películas de informática
  ```
  cd chat_terminal
  ```
+ Instalamos las dependencias con el comando: 
+
+ ```
+ npm i
+ ```
+ 
  Arrancar el servidor:
  
  ```
