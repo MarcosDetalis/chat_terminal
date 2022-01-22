@@ -25,7 +25,7 @@ ClI inspirada por las viejas películas de informática
  ```
  npm start
  ```
- Abrimos otra terminal en el mismo directorio y ejectamos:
+ Abrimos otra terminal en el mismo directorio y ejecutamos:
  
  ```
  node client.js
