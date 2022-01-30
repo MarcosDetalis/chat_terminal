@@ -24,6 +24,8 @@ const rl = readline.createInterface({
              "ls;" === str ?
              (socket.emit("ListaUsuario", {"Usuariolist": NombreUsuario})):
              (socket.emit("mesaje", {"UsuarioSms": NombreUsuario, "sms": str}))
+
+            
             
         });
 
@@ -32,6 +34,17 @@ const rl = readline.createInterface({
         
             console.log('\x1b[36m%s\x1b[0m',data.UsuarioSms,"Dice:",data.sms);
         });
+
+        socket.on("private", (data) => {
+        
+            console.log('\x1b[36m%s\x1b[0m',data.user,"Privado:",data.smspriv);
+        });
+        socket.on("msg",(data) =>{
+                console.log(data)
+
+        })
+
+
         socket.on("union_recibe", (data) => {
             console.log("\n[INFO]: %s Se a unido al chat", data.usuarioUnido);
         });
