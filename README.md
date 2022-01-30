@@ -40,7 +40,7 @@ ClI inspirada por las viejas películas de informática
  ```
 priv nombreaenviar mesansaje privado
  ```
- ![alt text](https://raw.githubusercontent.com/MarcosDetalis/chat_terminal/main/demoCLI.gif)
+ ![alt text](https://raw.githubusercontent.com/MarcosDetalis/chat_terminal/main/priv.gif)
  
 
 ## Tecnologías utilizadas 🛠️
