@@ -35,7 +35,7 @@ ClI inspirada por las viejas películas de informática
 ## Ejecutando las pruebas ⚙️
  ![alt text](https://raw.githubusercontent.com/MarcosDetalis/chat_terminal/main/demoCLI.gif)
  
- Para enviar mensaje privado a un usuario el comando es:
+ Para enviar mensaje privado a un usuario se ejecuta el comando reservado "priv":
  
  ```
 priv nombreaenviar mesansaje privado
